@@ -5,7 +5,7 @@ A clinical decision support tool that combines patient health record analysis
 with brain MRI imaging to assess stroke risk. Uses a Random Forest classifier
 trained on the Kaggle Healthcare Stroke Dataset.
 
-Author: [ME 😁]
+Author: sriram
 """
 
 import streamlit as st
